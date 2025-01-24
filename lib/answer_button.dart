@@ -14,6 +14,7 @@ class AnswerButton extends StatelessWidget {
         foregroundColor: Colors.white,
       ),
       child: Text(answerOption),
+      ),
     );
   }
 }
